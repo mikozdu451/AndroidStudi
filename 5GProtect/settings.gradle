@@ -1,0 +1,2 @@
+rootProject.name='5GProtect'
+include ':app'
